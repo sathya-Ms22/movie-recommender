@@ -1,5 +1,4 @@
-Simple event booking app you can submit on GitHub.
-It includes:
+Simple event booking app you can submit on GitHub.It includes:
 
 Frontend: HTML, CSS, JavaScript (Fetch GET/POST)
 Backend: Node.js + Express
@@ -14,10 +13,8 @@ Upload to GitHub (no command line needed)
 ◾Go to https://github.com → New → Repository
   → name it event-booking-portal → Create.
 ◾On your new repository page, 
-  click Add file → Upload files.
-◾Drag-and-drop everything inside the unzipped folder 
-  (not the folder itself) into the page.
+click Add file → Upload files.
+◾Drag-and-drop everything inside the  unzipped folder  (not the folder       itself) into the page.
 ◾Scroll down and click Commit changes.
-◾Your submit link is the repository URL, 
- e.g.: https://github.com/<your-username>/movie-recommender
+◾Your submit link is the repository URL, e.g.: https://github.com/<your-username>/movie-recommender
 
