@@ -14,7 +14,7 @@ Upload to GitHub (no command line needed)
   → name it event-booking-portal → Create.
 ◾On your new repository page, 
 click Add file → Upload files.
-◾Drag-and-drop everything inside the  unzipped folder  (not the folder       itself) into the page.
+◾Drag-and-drop everything inside the  unzipped folder  (not the folder itself) into the page.
 ◾Scroll down and click Commit changes.
 ◾Your submit link is the repository URL, e.g.: https://github.com/<your-username>/movie-recommender
 
