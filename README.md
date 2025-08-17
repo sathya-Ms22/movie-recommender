@@ -6,7 +6,7 @@ Backend: Node.js + Express
 Docker & Kubernetes (Minikube)
 Jenkins CI/CD + SonarQube (optional)
 Basic monitoring via /metrics (Prometheus)
-----------------------------------------------------
+
 
 Upload to GitHub (no command line needed)
 
@@ -20,4 +20,4 @@ Upload to GitHub (no command line needed)
 ◾Scroll down and click Commit changes.
 ◾Your submit link is the repository URL, 
  e.g.: https://github.com/<your-username>/movie-recommender
- ------------------------------------------------------------------
+
